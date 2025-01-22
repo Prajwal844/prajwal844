@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👨‍💻 All of my projects are available at [https://prajwalprakash.netlify.app/](https://prajwalprakash.netlify.app/)
+- 👨‍💻 All of my projects are available here.
 
 - 💬 Ask me about **web development**
 
@@ -20,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prajwalprakash844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwalprakash844" height="30" width="40" /></a>
 <a href="https://fb.com/prajwalrajput844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prajwalrajput844" height="30" width="40" /></a>
 <a href="https://instagram.com/prajwalrajput844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwalrajput844" height="30" width="40" /></a>
 <a href="https://discord.gg/prajwal844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prajwal844" height="30" width="40" /></a>
